@@ -1,0 +1,5 @@
+{
+  "firebase": "cardoni",
+  "public": "public",
+  "rules": "config/rules.json"
+}
